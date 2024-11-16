@@ -94233,7 +94233,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Fist",
-		identifiedResourceName = "IamRO_Blackstar_Fist",
+		identifiedResourceName = "Blackstar_Fist",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: Champion",
@@ -94251,7 +94251,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Cane Creator",
-		identifiedResourceName = "IamRO_Blackstar_Cane_Creator",
+		identifiedResourceName = "Blackstar_Cane_Creator",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: Creator",
@@ -94261,7 +94261,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 106,
+		ClassNum = 315,
 		costume = true
 	},
 	[70456] = {
@@ -94269,7 +94269,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Sword",
-		identifiedResourceName = "IamRO_Blackstar_Sword",
+		identifiedResourceName = "Blackstar_Sword",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: Lord Knight",
@@ -94287,7 +94287,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Bow",
-		identifiedResourceName = "IamRO_Blackstar_Bow",
+		identifiedResourceName = "Blackstar_Bow",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"_______________________",
@@ -94304,7 +94304,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Orb",
-		identifiedResourceName = "IamRO_Elemental_Orbs",
+		identifiedResourceName = "Elemental_Orbs",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"_______________________",
@@ -94320,8 +94320,8 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shadow Weapon",
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "[C]Blackstar_Dagger_Assassin",
-		identifiedResourceName = "IamRO_Blackstar_Dagger_Assassin",
+		identifiedDisplayName = "[C]Crimson Dagger Assassin",
+		identifiedResourceName = "Blackstar_Dagger_Assassin",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"_______________________",
@@ -94330,7 +94330,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 111,
+		ClassNum = 317,
 		costume = true
 	},
 	[70461] = {
@@ -94338,7 +94338,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Axe",
-		identifiedResourceName = "IamRO_Blackstar_Axe",
+		identifiedResourceName = "Blackstar_Axe",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: White Smith",
@@ -94356,7 +94356,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Staff",
-		identifiedResourceName = "IamRO_Blackstar_Staff",
+		identifiedResourceName = "Blackstar_Staff",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: High Wizard",
@@ -94374,7 +94374,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Crucifix",
-		identifiedResourceName = "IamRO_Blackstar_Crucifix",
+		identifiedResourceName = "Blackstar_Crucifix",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"Class: High Priest",
