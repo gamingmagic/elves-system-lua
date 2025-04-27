@@ -94243,7 +94243,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 105,
+		ClassNum = 318,
 		costume = true
 	},
 	[70455] = {
@@ -94279,7 +94279,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 107,
+		ClassNum = 321,
 		costume = true
 	},
 	[70457] = {
@@ -94296,7 +94296,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 108,
+		ClassNum = 314,
 		costume = true
 	},
 	[70458] = {
@@ -94304,7 +94304,7 @@ tbl = {
 		unidentifiedResourceName = "¿þÆù½¦µµ¿ì",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
 		identifiedDisplayName = "[C]Crimson Orb",
-		identifiedResourceName = "Elemental_Orbs",
+		identifiedResourceName = "IamRO_Elemental_Orbs",
 		identifiedDescriptionName = {
 			"Max Weight +1,000",
 			"_______________________",
@@ -94348,7 +94348,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 112,
+		ClassNum = 313,
 		costume = true
 	},
 	[70462] = {
@@ -94366,7 +94366,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 113,
+		ClassNum = 320,
 		costume = true
 	},
 	[70463] = {
@@ -94384,7 +94384,7 @@ tbl = {
 			"^0000CCRequirement:^000000 None"
 		},
 		slotCount = 0,
-		ClassNum = 114,
+		ClassNum = 316,
 		costume = true
 	},
 	[70464] = {
@@ -102905,7 +102905,7 @@ tbl = {
 			"All Stats +7",
 			"MDEF +5",
 			"_______________________",
-			"Prevents ^663399Stun^000000 status.",
+			"Prevents ^663399Curse^000000 status.",
 			"_______________________",
 			"^663399Indestructible in battle^000000",
 			"_______________________",
@@ -103079,7 +103079,7 @@ tbl = {
 			"All Stats +7",
 			"MDEF +5",
 			"_______________________",
-			"Prevents ^663399Stun^000000 status.",
+			"Prevents ^663399Silence^000000 status.",
 			"_______________________",
 			"^663399Indestructible in battle^000000",
 			"_______________________",
@@ -104456,6 +104456,234 @@ tbl = {
 		slotCount = 4,
 		ClassNum = 2413,
 		costume = false
+	},
+[70733] = {
+    unidentifiedDisplayName = "hat",
+    unidentifiedResourceName = "Ä¸",
+    unidentifiedDescriptionName = {
+        "Unidentified item, can be identified with [Magnifier].",
+    },
+    identifiedDisplayName = "RWC Relentless Hood",
+    identifiedResourceName = "¾É¾ÆÀÖ´Â±³È²",
+    identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 1",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+    },
+    slotCount = 4,
+    ClassNum = 1692,
+},
+  [70863] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "MythicalFury_Helm",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Mythical Fury Kaho's Horn",
+    identifiedResourceName = "MythicalFury_Helm",
+    identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 1",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+    },
+    slotCount = 4,
+    ClassNum = 4060,
+    costume = true
+  },
+  [70864] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "MythicalFury_Protector",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Mythical Fury Protector",
+    identifiedResourceName = "MythicalFury_Protector",
+    identifiedDescriptionName = {
+      "_______________________",
+      "^0000CCType:^000000 Costume",
+      "^0000CCPosition:^000000 Middle",
+      "^0000CCWeight:^000000 0",
+      "_______________________",
+      "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4061,
+    costume = true
+  },
+  [70865] = {
+    unidentifiedDisplayName = "Unidentified Hat",
+    unidentifiedResourceName = "MythicalFury_Scythe",
+    unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+    identifiedDisplayName = "Mythical Fury Scythe",
+    identifiedResourceName = "MythicalFury_Scythe",
+    identifiedDescriptionName = {
+      "_______________________",
+      "^0000CCType:^000000 Costume",
+      "^0000CCPosition:^000000 Low",
+      "^0000CCWeight:^000000 0",
+      "_______________________",
+      "^0000CCRequirement:^000000 None"
+    },
+    slotCount = 0,
+    ClassNum = 4062,
+    costume = true
+  },
+  [70866] = {
+    unidentifiedDisplayName = "Exiles Cape (Black)",
+    unidentifiedResourceName = "CAPE_EXILES_BLACK",
+    unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+    identifiedDisplayName = "Exiles Cape (Black)",
+    identifiedResourceName = "CAPE_EXILES_BLACK",
+    identifiedDescriptionName = {
+      "_______________________",
+      "Class:^6666CC Costume Headgear^000000",
+      "Location:^6666CC Low^000000",
+      "Weight:^009900 0^000000",
+      "Level Requirement:^009900 1^000000",
+      "Jobs:^6666CC All^000000"
+    },
+    slotCount = 0,
+    ClassNum = 4063,
+    costume = true
+  },
+  [70867] = {
+    unidentifiedDisplayName = "Exiles Cape (Blue)",
+    unidentifiedResourceName = "CAPE_EXILES_BLUE",
+    unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+    identifiedDisplayName = "Exiles Cape (Blue)",
+    identifiedResourceName = "CAPE_EXILES_BLUE",
+    identifiedDescriptionName = {
+      "_______________________",
+      "Class:^6666CC Costume Headgear^000000",
+      "Location:^6666CC Low^000000",
+      "Weight:^009900 0^000000",
+      "Level Requirement:^009900 1^000000",
+      "Jobs:^6666CC All^000000"
+    },
+    slotCount = 0,
+    ClassNum = 4064,
+    costume = true
+  },
+  [70868] = {
+    unidentifiedDisplayName = "Exiles Cape (Green)",
+    unidentifiedResourceName = "CAPE_EXILES_GREEN",
+    unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+    identifiedDisplayName = "Exiles Cape (Green)",
+    identifiedResourceName = "CAPE_EXILES_GREEN",
+    identifiedDescriptionName = {
+      "_______________________",
+      "Class:^6666CC Costume Headgear^000000",
+      "Location:^6666CC Low^000000",
+      "Weight:^009900 0^000000",
+      "Level Requirement:^009900 1^000000",
+      "Jobs:^6666CC All^000000"
+    },
+    slotCount = 0,
+    ClassNum = 4065,
+    costume = true
+  },
+  [70869] = {
+    unidentifiedDisplayName = "Exiles Cape (Purple)",
+    unidentifiedResourceName = "CAPE_EXILES_PURPLE",
+    unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+    identifiedDisplayName = "Exiles Cape (Purple)",
+    identifiedResourceName = "CAPE_EXILES_PURPLE",
+    identifiedDescriptionName = {
+      "_______________________",
+      "Class:^6666CC Costume Headgear^000000",
+      "Location:^6666CC Low^000000",
+      "Weight:^009900 0^000000",
+      "Level Requirement:^009900 1^000000",
+      "Jobs:^6666CC All^000000"
+    },
+    slotCount = 0,
+    ClassNum = 4066,
+    costume = true
+  },
+  [70870] = {
+    unidentifiedDisplayName = "Exiles Cape (Red)",
+    unidentifiedResourceName = "CAPE_EXILES_RED",
+    unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+    identifiedDisplayName = "Exiles Cape (Red)",
+    identifiedResourceName = "CAPE_EXILES_RED",
+    identifiedDescriptionName = {
+      "_______________________",
+      "Class:^6666CC Costume Headgear^000000",
+      "Location:^6666CC Low^000000",
+      "Weight:^009900 0^000000",
+      "Level Requirement:^009900 1^000000",
+      "Jobs:^6666CC All^000000"
+    },
+    slotCount = 0,
+    ClassNum = 4067,
+    costume = true
+  },
+	[480344] = {
+		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedResourceName = "ÈÄµå",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "C Half Blood Princess Scythe",
+		identifiedResourceName = "C_HDP_Scythe",
+		identifiedDescriptionName = {
+			"^0000CCType:^000000 Costume",
+			"^0000CCPosition:^000000 Garment",
+			"^0000CCWeight:^000000 0",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 0,
+		ClassNum = 189,
+		costume = true
+	},
+	[20408] = {
+		unidentifiedDisplayName = "Unidentified Hairband",
+		unidentifiedResourceName = "¸Ó¸®¶ì",
+		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+		identifiedDisplayName = "RWC Requiem Crown of Light and Dark",
+		identifiedResourceName = "ÇÇÀÇºû°ú¾îµÒÁøÈ«°ü",
+		identifiedDescriptionName = {
+			"^FF0000Cannot be traded^000000",
+			"_______________________",
+			"All Stats +7",
+			"MDEF +5",
+			"_______________________",
+			"Prevents ^663399Stun^000000 status.",
+			"_______________________",
+			"^663399Indestructible in battle^000000",
+			"_______________________",
+			"^0000CCType:^000000 Headgear",
+			"^0000CCDefense:^000000 1",
+			"^0000CCPosition:^000000 Upper",
+			"^0000CCWeight:^000000 100",
+			"^0000CCArmor Level:^000000 1",
+			"_______________________",
+			"^0000CCRequirement:^000000 None"
+		},
+		slotCount = 4,
+		ClassNum = 1419,
+		costume = true
 	},
 }
 
